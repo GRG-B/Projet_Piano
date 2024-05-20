@@ -1,1 +1,1 @@
-# Projet_Piano
+L’objectif de ce projet est la création et programmation d’un robot jouant du piano à partir d’une partition donnée. Il s’agit d’un robot deux axes (déplacement le long des touches et appui sur la touche) avec un asservissement réalisé sur l’axe de déplacement au moyen d’un photoréflecteur infrarouge. La programmation a été effectuée en Arduino et la construction utilise les pièces du kit de robotique Robots avancés proposé par l’Ecole Robots.
